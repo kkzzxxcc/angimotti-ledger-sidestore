@@ -1,0 +1,28 @@
+{
+  "name": "Angimotti Ledger",
+  "identifier": "com.local.angimotti-ledger-ios.sidestore",
+  "sourceURL": "https://kkzzxxcc.github.io/angimotti-ledger-sidestore/source.json",
+  "apps": [
+    {
+      "name": "앙기모띠가계부",
+      "bundleIdentifier": "com.local.angimotti-ledger-ios",
+      "developerName": "kkzzxxcc",
+      "subtitle": "Personal ledger app",
+      "localizedDescription": "SideStore distribution source for Angimotti Ledger iOS.",
+      "iconURL": "https://kkzzxxcc.github.io/angimotti-ledger-sidestore/icon.png",
+      "tintColor": "2F80ED",
+      "category": "finance",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-07-07T11:23:32Z",
+          "localizedDescription": "Initial SideStore IPA release.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.0/AngimottiLedgerIOS.ipa",
+          "size": 52574,
+          "sha256": "24453031b77b3149aedcaba12e4de9c78c376b7a7dea3a37080e10506c27e738"
+        }
+      ]
+    }
+  ]
+}
