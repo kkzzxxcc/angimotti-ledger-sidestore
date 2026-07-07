@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.1",
+          "buildVersion": "2",
+          "date": "2026-07-07T12:19:30Z",
+          "localizedDescription": "Adds iOS backup and restore support.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.1/AngimottiLedgerIOS-v0.1.1.ipa",
+          "size": 156870,
+          "sha256": "f5e680086210f5a52f54dd3e290bb1f44dcccbaaa55ba043e4429119e5c7b8b5"
+        },
+        {
           "version": "0.1.0",
           "buildVersion": "1",
           "date": "2026-07-07T11:23:32Z",
