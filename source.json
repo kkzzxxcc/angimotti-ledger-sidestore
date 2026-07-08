@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.10",
+          "buildVersion": "11",
+          "date": "2026-07-08T01:57:35Z",
+          "localizedDescription": "Adds an annual expense calendar forecast with 12-month income, outflow, net cashflow, notable months, and annual payment highlights.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.10/AngimottiLedgerIOS-v0.1.10.ipa",
+          "size": 535052,
+          "sha256": "ff51366598664b9aba4084d834948bb5cfb83f8fe0aa4de86b52931cb0eec8a6"
+        },
+        {
           "version": "0.1.9",
           "buildVersion": "10",
           "date": "2026-07-08T01:52:04Z",
