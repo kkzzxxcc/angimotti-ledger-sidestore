@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.11",
+          "buildVersion": "12",
+          "date": "2026-07-08T02:03:49Z",
+          "localizedDescription": "Fixes in-app update checks when SideStore-resigned bundle identifiers do not exactly match the source entry, with bundle diagnostics on the update screen.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.11/AngimottiLedgerIOS-v0.1.11.ipa",
+          "size": 536261,
+          "sha256": "02543db49fa76b7ae21aa6714b37b938028d3dbf7cf6218393562efd4c0f9cfc"
+        },
+        {
           "version": "0.1.10",
           "buildVersion": "11",
           "date": "2026-07-08T01:57:35Z",
