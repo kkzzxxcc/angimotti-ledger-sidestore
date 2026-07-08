@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.4",
+          "buildVersion": "5",
+          "date": "2026-07-08T00:40:34Z",
+          "localizedDescription": "Adds dashboard UI polish, monthly cashflow summaries, and savings progress details.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.4/AngimottiLedgerIOS-v0.1.4.ipa",
+          "size": 381040,
+          "sha256": "96605e30969f269466a537c83e955ff832896c17cf8843312d092a8bd739252c"
+        },
+        {
           "version": "0.1.3",
           "buildVersion": "4",
           "date": "2026-07-08T00:26:14Z",
