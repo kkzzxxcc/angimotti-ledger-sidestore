@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.8",
+          "buildVersion": "9",
+          "date": "2026-07-08T01:35:26Z",
+          "localizedDescription": "Adds an analysis home and fixed-cost diagnosis screen.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.8/AngimottiLedgerIOS-v0.1.8.ipa",
+          "size": 479418,
+          "sha256": "2328ffc1397a56e9f012bc7c68f6d5beec43218155db6e3433a82a91d125b583"
+        },
+        {
           "version": "0.1.7",
           "buildVersion": "8",
           "date": "2026-07-08T01:01:42Z",
