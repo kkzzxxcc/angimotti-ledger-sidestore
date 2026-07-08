@@ -14,121 +14,13 @@
       "category": "finance",
       "versions": [
         {
-          "version": "0.1.12",
-          "buildVersion": "13",
-          "date": "2026-07-08T02:22:38Z",
-          "localizedDescription": "Shows expense lists by selected month so annual expenses appear only in their payment month, while keeping monthly and annual expense management separate.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.12/AngimottiLedgerIOS.ipa",
-          "size": 554609,
-          "sha256": "cd680fe364fdd0102b6a5c69ac1c51bbb0b5981948ba0e2c065c0ee9b14ba266"
-        },
-        {
-          "version": "0.1.11",
-          "buildVersion": "12",
-          "date": "2026-07-08T02:03:49Z",
-          "localizedDescription": "Fixes in-app update checks when SideStore-resigned bundle identifiers do not exactly match the source entry, with bundle diagnostics on the update screen.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.11/AngimottiLedgerIOS-v0.1.11.ipa",
-          "size": 536261,
-          "sha256": "02543db49fa76b7ae21aa6714b37b938028d3dbf7cf6218393562efd4c0f9cfc"
-        },
-        {
-          "version": "0.1.10",
-          "buildVersion": "11",
-          "date": "2026-07-08T01:57:35Z",
-          "localizedDescription": "Adds an annual expense calendar forecast with 12-month income, outflow, net cashflow, notable months, and annual payment highlights.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.10/AngimottiLedgerIOS-v0.1.10.ipa",
-          "size": 535052,
-          "sha256": "ff51366598664b9aba4084d834948bb5cfb83f8fe0aa4de86b52931cb0eec8a6"
-        },
-        {
-          "version": "0.1.9",
-          "buildVersion": "10",
-          "date": "2026-07-08T01:52:04Z",
-          "localizedDescription": "Fixes update status display so unchecked and failed checks no longer appear as latest state.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.9/AngimottiLedgerIOS-v0.1.9.ipa",
-          "size": 479821,
-          "sha256": "6c8bd3931c0f1a8f142bef6246777c90e6dcd4fff07d4c87e75ca0ca2f638dc0"
-        },
-        {
-          "version": "0.1.8",
-          "buildVersion": "9",
-          "date": "2026-07-08T01:35:26Z",
-          "localizedDescription": "Adds an analysis home and fixed-cost diagnosis screen.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.8/AngimottiLedgerIOS-v0.1.8.ipa",
-          "size": 479418,
-          "sha256": "2328ffc1397a56e9f012bc7c68f6d5beec43218155db6e3433a82a91d125b583"
-        },
-        {
-          "version": "0.1.7",
-          "buildVersion": "8",
-          "date": "2026-07-08T01:01:42Z",
-          "localizedDescription": "Splits ledger records into dedicated expense, income, and savings list entry screens.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.7/AngimottiLedgerIOS-v0.1.7.ipa",
-          "size": 444097,
-          "sha256": "470c5399c49b43a588ccaf71d76464561c7fc47ebee40fc6a1c25d93d26bfca6"
-        },
-        {
-          "version": "0.1.6",
-          "buildVersion": "7",
-          "date": "2026-07-08T00:57:49Z",
-          "localizedDescription": "Fixes update checks by bypassing cached source metadata and selecting the newest release entry.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.6/AngimottiLedgerIOS-v0.1.6.ipa",
-          "size": 424122,
-          "sha256": "0af2934922cd3cf6ff152bbcdd28e944d0f2f8964a0bf3d3ab6e7030a9eb9b42"
-        },
-        {
-          "version": "0.1.5",
-          "buildVersion": "6",
-          "date": "2026-07-08T00:49:33Z",
-          "localizedDescription": "Adds payment method monthly query with outflow totals and detail rows.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.5/AngimottiLedgerIOS-v0.1.5.ipa",
-          "size": 420887,
-          "sha256": "b58f2d4ee47e3f5c3a98541e33658a641e6ae242431d3c781c33c293fd490a6c"
-        },
-        {
-          "version": "0.1.4",
-          "buildVersion": "5",
-          "date": "2026-07-08T00:40:34Z",
-          "localizedDescription": "Adds dashboard UI polish, monthly cashflow summaries, and savings progress details.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.4/AngimottiLedgerIOS-v0.1.4.ipa",
-          "size": 381040,
-          "sha256": "96605e30969f269466a537c83e955ff832896c17cf8843312d092a8bd739252c"
-        },
-        {
-          "version": "0.1.3",
-          "buildVersion": "4",
-          "date": "2026-07-08T00:26:14Z",
-          "localizedDescription": "Adds SwiftData CRUD screens for ledger entries and payment methods.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.3/AngimottiLedgerIOS-v0.1.3.ipa",
-          "size": 326822,
-          "sha256": "72f0619f34f0bfc16cae209276083577ccbbf54199f5a4a73c34561879e530c4"
-        },
-        {
-          "version": "0.1.2",
-          "buildVersion": "3",
-          "date": "2026-07-07T12:32:20Z",
-          "localizedDescription": "Adds a SideStore update status screen.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.2/AngimottiLedgerIOS-v0.1.2.ipa",
-          "size": 198002,
-          "sha256": "264103f0b3eb5529e42a953fb85167288210c83cdf76710df7bd2d68663f541c"
-        },
-        {
-          "version": "0.1.1",
-          "buildVersion": "2",
-          "date": "2026-07-07T12:19:30Z",
-          "localizedDescription": "Adds iOS backup and restore support.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.1/AngimottiLedgerIOS-v0.1.1.ipa",
-          "size": 156870,
-          "sha256": "f5e680086210f5a52f54dd3e290bb1f44dcccbaaa55ba043e4429119e5c7b8b5"
-        },
-        {
-          "version": "0.1.0",
-          "buildVersion": "1",
-          "date": "2026-07-07T11:23:32Z",
-          "localizedDescription": "Initial SideStore IPA release.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.0/AngimottiLedgerIOS-v0.1.0.ipa",
-          "size": 52579,
-          "sha256": "d1243e700a38b38ef9a075d287f92ad09d1aa28722e80239ead81a7d483877bc"
+          "version": "0.1.13",
+          "buildVersion": "14",
+          "date": "2026-07-08T12:35:56Z",
+          "localizedDescription": "Local SideStore build.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.13/AngimottiLedgerIOS.ipa",
+          "size": 656136,
+          "sha256": "556bfaa001c44d727dada6bbb018f2312d978134bfada97de1a25d9816735d86"
         }
       ]
     }
