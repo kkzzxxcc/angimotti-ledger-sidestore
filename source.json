@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.9",
+          "buildVersion": "10",
+          "date": "2026-07-08T01:52:04Z",
+          "localizedDescription": "Fixes update status display so unchecked and failed checks no longer appear as latest state.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.9/AngimottiLedgerIOS-v0.1.9.ipa",
+          "size": 479821,
+          "sha256": "6c8bd3931c0f1a8f142bef6246777c90e6dcd4fff07d4c87e75ca0ca2f638dc0"
+        },
+        {
           "version": "0.1.8",
           "buildVersion": "9",
           "date": "2026-07-08T01:35:26Z",
