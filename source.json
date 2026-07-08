@@ -14,13 +14,13 @@
       "category": "finance",
       "versions": [
         {
-          "version": "0.1.14",
-          "buildVersion": "15",
-          "date": "2026-07-08T12:51:31Z",
+          "version": "0.1.15",
+          "buildVersion": "16",
+          "date": "2026-07-08T13:12:50Z",
           "localizedDescription": "Local SideStore build.",
-          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.14/AngimottiLedgerIOS.ipa",
-          "size": 2731789,
-          "sha256": "34c6b2db7d1db192817992c55fe0f3250d660dd1766a68a8757bbbd89979ecb7"
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.15/AngimottiLedgerIOS.ipa",
+          "size": 2818466,
+          "sha256": "d6f02b79c731c52667eed023e0141e0351e35d89e44dc60b4cfa9fd1420cb6d0"
         }
       ]
     }
