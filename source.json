@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.12",
+          "buildVersion": "13",
+          "date": "2026-07-08T02:22:38Z",
+          "localizedDescription": "Shows expense lists by selected month so annual expenses appear only in their payment month, while keeping monthly and annual expense management separate.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.12/AngimottiLedgerIOS.ipa",
+          "size": 554609,
+          "sha256": "cd680fe364fdd0102b6a5c69ac1c51bbb0b5981948ba0e2c065c0ee9b14ba266"
+        },
+        {
           "version": "0.1.11",
           "buildVersion": "12",
           "date": "2026-07-08T02:03:49Z",
