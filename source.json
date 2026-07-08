@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.5",
+          "buildVersion": "6",
+          "date": "2026-07-08T00:49:33Z",
+          "localizedDescription": "Adds payment method monthly query with outflow totals and detail rows.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.5/AngimottiLedgerIOS-v0.1.5.ipa",
+          "size": 420887,
+          "sha256": "b58f2d4ee47e3f5c3a98541e33658a641e6ae242431d3c781c33c293fd490a6c"
+        },
+        {
           "version": "0.1.4",
           "buildVersion": "5",
           "date": "2026-07-08T00:40:34Z",
