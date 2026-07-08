@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.6",
+          "buildVersion": "7",
+          "date": "2026-07-08T00:57:49Z",
+          "localizedDescription": "Fixes update checks by bypassing cached source metadata and selecting the newest release entry.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.6/AngimottiLedgerIOS-v0.1.6.ipa",
+          "size": 424122,
+          "sha256": "0af2934922cd3cf6ff152bbcdd28e944d0f2f8964a0bf3d3ab6e7030a9eb9b42"
+        },
+        {
           "version": "0.1.5",
           "buildVersion": "6",
           "date": "2026-07-08T00:49:33Z",
