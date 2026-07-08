@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.7",
+          "buildVersion": "8",
+          "date": "2026-07-08T01:01:42Z",
+          "localizedDescription": "Splits ledger records into dedicated expense, income, and savings list entry screens.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.7/AngimottiLedgerIOS-v0.1.7.ipa",
+          "size": 444097,
+          "sha256": "470c5399c49b43a588ccaf71d76464561c7fc47ebee40fc6a1c25d93d26bfca6"
+        },
+        {
           "version": "0.1.6",
           "buildVersion": "7",
           "date": "2026-07-08T00:57:49Z",
