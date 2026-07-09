@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.18",
+          "buildVersion": "19",
+          "date": "2026-07-09T10:25:46Z",
+          "localizedDescription": "v0.1.18: 업데이트 화면 현재 앱 섹션 정리와 Lab v1.2 분석 카드 반영.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.18/AngimottiLedgerIOS.ipa",
+          "size": 2950600,
+          "sha256": "55153fec2cb21b6ba21c96b92e11175882f2c64ee34f77446a43783b372ae40f"
+        },
+        {
           "version": "0.1.17",
           "buildVersion": "18",
           "date": "2026-07-08T13:34:06Z",
