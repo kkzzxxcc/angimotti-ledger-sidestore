@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.19",
+          "buildVersion": "20",
+          "date": "2026-07-10T05:33:34Z",
+          "localizedDescription": "v0.1.19: 업데이트 완료 안내, 일일 자동/업데이트 관리 백업, 이전 버전 복구 안내를 추가했습니다.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.19/AngimottiLedgerIOS.ipa",
+          "size": 2998643,
+          "sha256": "9a24d2910e554bde17b3fa0e0dbf8f959c554cbff69242c9275ed34e753986e7"
+        },
+        {
           "version": "0.1.18",
           "buildVersion": "19",
           "date": "2026-07-09T10:25:46Z",
