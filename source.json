@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.21",
+          "buildVersion": "22",
+          "date": "2026-07-10T06:08:44Z",
+          "localizedDescription": "v0.1.21: 실험실 설정 접기/펼치기와 저축 만기·갱신 액션을 추가했습니다.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.21/AngimottiLedgerIOS.ipa",
+          "size": 3094836,
+          "sha256": "9134f8f213f482b2a194b4fddb933c71daef9da9b996110886d291e125b3ee85"
+        },
+        {
           "version": "0.1.20",
           "buildVersion": "21",
           "date": "2026-07-10T05:56:33Z",
