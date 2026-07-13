@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.23",
+          "buildVersion": "24",
+          "date": "2026-07-13T06:18:58Z",
+          "localizedDescription": "Lab v2.3 생애주기와 명예의 전당·추락의 공간을 추가하고, 저축 만기·갱신을 본 기능으로 승급했습니다.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.23/AngimottiLedgerIOS.ipa",
+          "size": 3307997,
+          "sha256": "12fe4c73625e15bf3bf2b68f156f0152e5790e23cd51b3e0fcd64b1c9fec08fa"
+        },
+        {
           "version": "0.1.22",
           "buildVersion": "23",
           "date": "2026-07-13T05:55:38Z",
