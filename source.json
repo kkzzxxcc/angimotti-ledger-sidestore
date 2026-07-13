@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "0.1.22",
+          "buildVersion": "23",
+          "date": "2026-07-13T05:55:38Z",
+          "localizedDescription": "v0.1.22: 예정일 데이터·분석, 백업 호환과 iOS 로컬 알림을 추가했습니다.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v0.1.22/AngimottiLedgerIOS.ipa",
+          "size": 3240134,
+          "sha256": "9dd7f601571091c42c389956866645c4aa8b7048a291e4b033da71543eaafbbb"
+        },
+        {
           "version": "0.1.21",
           "buildVersion": "22",
           "date": "2026-07-10T06:08:44Z",
