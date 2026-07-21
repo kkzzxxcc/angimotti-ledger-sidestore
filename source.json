@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "1.0.0",
+          "buildVersion": "26",
+          "date": "2026-07-21T01:04:22Z",
+          "localizedDescription": "정식 1.0.0: 현금흐름 러너·재생·달력·신규 실험 기능과 Lab v1.0.0, 라이트·다크 테마 전환을 추가했습니다.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v1.0.0/AngimottiLedgerIOS.ipa",
+          "size": 3548245,
+          "sha256": "2f10978ced7fae5bd4fa2e78a30a50ad77b9c4406d91072dd36484c7a39c8a05"
+        },
+        {
           "version": "0.1.24",
           "buildVersion": "25",
           "date": "2026-07-15T02:23:57Z",
