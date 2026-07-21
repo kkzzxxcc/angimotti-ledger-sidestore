@@ -14,6 +14,15 @@
       "category": "finance",
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "27",
+          "date": "2026-07-21T01:32:05Z",
+          "localizedDescription": "지출 캘린더의 날짜 셀 배치, 연도 표기, 중복 선택기와 연도 경계 월 이동을 수정했습니다.",
+          "downloadURL": "https://github.com/kkzzxxcc/angimotti-ledger-sidestore/releases/download/v1.0.1/AngimottiLedgerIOS.ipa",
+          "size": 3550810,
+          "sha256": "aa0ba4c44c66fff0ef7a4096b2d0a1cf75b2844ac73a2a18b5cd13b636b8d463"
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "26",
           "date": "2026-07-21T01:04:22Z",
